@@ -4,6 +4,7 @@ Privacy Policy
 ### Introduction  
 Our privacy policy will help you understand what information we collect at GianlucaPo, how GianlucaPo uses it, and what choices you have.
 GianlucaPo built the 
+Spesa - i tuoi Supermercati,
 BMI-Calculator, Bitcoin Tracker, Dicee, Magic 8 Ball, Quizzler, Africa - Explore!, BMI Calculator - Swift
 Clima - Discover it!, Fructus - Discover it!, Tipsy - Split it!, Quizzler - Guess it!, Xylophone - Play it!, GP WEather, GP Stop Smoking, GP Weather, Gp Stop Smoking
 app as a free app. This SERVICE is provided by GianlucaPo at no cost and is intended for use as is.
